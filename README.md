@@ -1,16 +1,54 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Section</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 600px;
+        }
+        h2 {
+            margin-top: 30px;
+        }
+        ul {
+            margin: 8px 0 20px 20px;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
-<!--
-**AqlusSalimSahipa777/AqlusSalimSahipa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <h2>Education</h2>
+    <ul>
+        <li>BS Information Technology</li>
+        <li>New Era University</li>
+        <li>2024–Present</li>
+    </ul>
 
-Here are some ideas to get you started:
+    <h2>Certification</h2>
+    <ul>
+        <li>
+            <a href="https://courses.cognitiveclass.ai/certificates/6123f244217d4e0295839717174ec127" target="_blank">
+                SQL and Relational Databases 101
+            </a>
+        </li>
+    </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h2>Skill Sets</h2>
+    <ul>
+        <li><strong>Programming:</strong> Java, JavaScript, C++</li>
+        <li><strong>Databases:</strong> SQL</li>
+        <li><strong>Tools:</strong> VScode, Eclipse IDE, HTML</li>
+    </ul>
+
+</body>
+</html>
