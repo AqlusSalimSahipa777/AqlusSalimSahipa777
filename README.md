@@ -1,5 +1,5 @@
 ## Education
-- **BS Information Technology**  
+- BS Information Technology  
 - New Era University  
 - 2024–Present  
 
