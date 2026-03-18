@@ -11,6 +11,6 @@
 ---
 
 ## Skill Sets
-- **Programming:** Java, JavaScript, C++  
+- **Programming:** Java, JavaScript, C++, Basic Python
 - **Databases:** SQL  
-- **Tools:** VSCode, Eclipse IDE, HTML  
+- **Tools:** VSCode, Eclipse IDE, HTML, Pycharm  
