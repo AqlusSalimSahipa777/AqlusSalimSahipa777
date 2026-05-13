@@ -1,4 +1,3 @@
- />
 <!-- Header -->
 <h1 align="center">Hi, I'm Aqlus Salim Sahipa</h1>
 <h3 align="center">Aspiring IT Professional | Database Enthusiast | Problem Solver</h3>
