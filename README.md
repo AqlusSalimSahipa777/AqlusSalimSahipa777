@@ -35,13 +35,13 @@ I am **Aqlus Salim Sahipa**, with a flair for coding and database management ski
 ## 🛠️ Skill Sets
 
 **Programming**  
-Java, JavaScript, Python
+Java, JavaScript, Python, C++
 
 **Databases**  
 IBM DB2 Cloud
 
 **Tools**  
-Lucidchart, Jaspersoft Studio, Eclipse, HTML
+Visual Studio Code, Eclipse IDE, HTML, Pycharm
 
 ---
 
