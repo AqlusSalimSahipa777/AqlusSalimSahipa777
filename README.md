@@ -1,12 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Aqlus Salim Sahipa</h1>
 <h3 align="center">Aspiring IT Professional | Database Enthusiast | Problem Solver</h3>
-
-<!-- Formal Photo -->
-<p align="center">
-  <img width="200" height="200" alt="1000012051" src="https://github.com/user-attachments/assets/cd625681-e2d4-4b1a-8374-82e1df7362c8" style="border-radius: 50%;">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
